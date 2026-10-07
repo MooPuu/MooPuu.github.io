@@ -1,0 +1,14 @@
+[
+    {
+        "relation":  [
+                         "delegate_permission/common.handle_all_urls"
+                     ],
+        "target":  {
+                       "namespace":  "android_app",
+                       "package_name":  "com.mahdikareem.promptengineer",
+                       "sha256_cert_fingerprints":  [
+                                                        "DB:7D:62:10:70:40:FA:EF:B3:32:15:70:77:64:50:24:9D:9E:38:30:20:51:41:7D:0B:5B:09:C9:82:D5:42:9B"
+                                                    ]
+                   }
+    }
+]
